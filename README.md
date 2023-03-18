@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Criamos uma página web com um formulario de cadatrar eventos, com data dia e hora do evento.
 
-- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explrorerFlutuar/)
+- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerFormulario/)
 
 
 
